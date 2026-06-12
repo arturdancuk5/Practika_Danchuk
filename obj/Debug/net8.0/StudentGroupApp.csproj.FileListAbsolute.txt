@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\Practika_Danchuk\bin\Debug\net8.0\StudentGroupApp.exe
+c:\Users\User\Desktop\Practika_Danchuk\bin\Debug\net8.0\StudentGroupApp.deps.json
+c:\Users\User\Desktop\Practika_Danchuk\bin\Debug\net8.0\StudentGroupApp.runtimeconfig.json
+c:\Users\User\Desktop\Practika_Danchuk\bin\Debug\net8.0\StudentGroupApp.dll
+c:\Users\User\Desktop\Practika_Danchuk\bin\Debug\net8.0\StudentGroupApp.pdb
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.AssemblyInfo.cs
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.dll
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\refint\StudentGroupApp.dll
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.pdb
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.genruntimeconfig.cache
+c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\ref\StudentGroupApp.dll
