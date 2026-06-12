@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj": {}
+    "C:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj": {
+    "C:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj",
         "projectName": "StudentGroupApp",
-        "projectPath": "c:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj",
-        "packagesPath": "C:\\Users\\User\\AppData\\Local\\Temp\\cursor-sandbox-cache\\9186a1ced3ed16349d3ee88bd1ae27c2\\nuget",
-        "outputPath": "c:\\Users\\User\\Desktop\\Practika_Danchuk\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Practika_Danchuk\\StudentGroupApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Practika_Danchuk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

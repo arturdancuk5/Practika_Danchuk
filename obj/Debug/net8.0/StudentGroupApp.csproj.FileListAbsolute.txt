@@ -12,3 +12,9 @@ c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\refint\StudentGroupApp.d
 c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.pdb
 c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.genruntimeconfig.cache
 c:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\ref\StudentGroupApp.dll
+C:\Users\User\Desktop\Practika_Danchuk\obj\Debug\net8.0\StudentGroupApp.sourcelink.json
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr2\StudentGroupApp.exe
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr2\StudentGroupApp.deps.json
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr2\StudentGroupApp.runtimeconfig.json
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr2\StudentGroupApp.dll
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr2\StudentGroupApp.pdb
