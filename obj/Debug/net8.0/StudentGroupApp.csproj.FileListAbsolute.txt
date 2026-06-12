@@ -28,3 +28,8 @@ c:\Users\User\Desktop\Practika_Danchuk\build_out_pr4\StudentGroupApp.deps.json
 c:\Users\User\Desktop\Practika_Danchuk\build_out_pr4\StudentGroupApp.runtimeconfig.json
 c:\Users\User\Desktop\Practika_Danchuk\build_out_pr4\StudentGroupApp.dll
 c:\Users\User\Desktop\Practika_Danchuk\build_out_pr4\StudentGroupApp.pdb
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr5\StudentGroupApp.exe
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr5\StudentGroupApp.deps.json
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr5\StudentGroupApp.runtimeconfig.json
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr5\StudentGroupApp.dll
+c:\Users\User\Desktop\Practika_Danchuk\build_out_pr5\StudentGroupApp.pdb
